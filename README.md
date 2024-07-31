@@ -47,3 +47,11 @@ While we default to Server Components, they cannot:
 <li>Access brosswer APIs</li>
 <li>Maintain state</li>
 <li>Use effects</li>
+
+In real world applications its best to use a combination of both client and server side.
+
+
+
+
+
+
