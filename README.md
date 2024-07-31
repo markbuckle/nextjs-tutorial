@@ -96,3 +96,21 @@ npm start
 ```
 
 
+## Styling
+
+### TailwindCSS
+
+tailwindcss.com
+
+### DaisyUI
+
+DaisyUI is like bootstrap for Tailwind
+
+daisyui.com/docs/install
+
+run:
+```pwsh
+npm i -D daisyui@latest
+```
+
+
